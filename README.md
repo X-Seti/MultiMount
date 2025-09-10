@@ -62,6 +62,9 @@ Examples:
   ./multimount.sh /path/to/workbench.hdf
   
   ./multimount.sh -r 2G -m /tmp/ramdisk
+  
   ./multimount.sh -u /mnt/auto-mount
+  
   ./multimount.sh -c /path/to/unknown_image
+  
   ./multimount.sh -i  # Install retro computer tools
